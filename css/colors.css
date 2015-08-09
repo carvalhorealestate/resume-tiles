@@ -1,0 +1,137 @@
+/*
+	Primary Color - Default Color : #34374b
+*/
+
+/* Background */
+.menu,.signup-link,
+.testimonial-box .owl-theme .owl-controls .owl-page span,
+.entry-content .footer,
+.ser-box,
+.footer-box,
+.app-dev-bg,
+.entry-content .nav-buttons a,
+.footer-height,
+.work-footer,
+.entry-content .contact-form,
+.news-left,.menu-collapser,
+ul.slimmenu.collapsed li {
+	background: #34374b;
+}
+
+/* Color */
+.sub-title,
+.drop-cap,
+.drop-cap-style-2,
+.img-hover-bg .mem-designation,
+.about-details .about-det-welcome,
+.services-cont  .service-tit,
+.serv-box-item .ser-tit,
+.arrow i,
+.news-tit,
+.news-sub,
+.work-details .work-tit,
+.entry-content.news-right h3,
+.news-content .news-cat a,
+.news-content .news-cat a,
+.news-content .news-cat a:hover,
+.news-content .news-cat a:active,
+.news-content .news-cat a:focus,
+.inner-arrow-left,
+.inner-arrow-right,
+.inner-arrow-down,
+.post-content .post-title,
+.post-content  .post-cat a,
+.post-cat a,
+.post-cat a:hover,
+.post-cat a:active,
+.post-cat a:focus {
+	color: #34374b;
+}
+
+/* Border */
+.app-bg-left {border-right: 65px solid #34374b !important;}
+.app-bg-right {border-left: 65px solid #34374b !important;}
+.service-box6 .info-image.desc-right-big::after {border-right: 50px solid #34374b;}
+
+/*
+	Secondary Color - Default Color : #5a65d1
+*/
+
+/* Background */
+.logo,
+.menu-list li+li::before,
+.highlight-bg,
+.entry-content .button-bg,
+.drop-cap-style-1,
+.tab-style-2 th,
+.nav-tabs > li.active > a,
+.nav-tabs > li.active > a:focus,
+.nav-tabs > li.active > a:hover,
+.panel-group .panel-heading a,
+.counter-bg,
+.price-top,
+.skillbar-bar,
+.service-box:hover .service-icon,
+.readmore,
+.testimonial-box .owl-theme .owl-controls .owl-page.active span,
+.testimonial-box .owl-theme .owl-controls .owl-page span:hover,
+.callout-button,
+#testi-slide.owl-theme .owl-controls .owl-page span:hover,
+.slide-read-more span,
+.testi-more span,
+.about-det-more span,
+.read-more span,
+.feature-box,
+.web-dev-bg,
+.nav-buttons,
+#work-slide.owl-theme .owl-controls .owl-buttons div,
+input.wpcf7-submit,
+a.comment-submit {
+	background: #5a65d1;
+}
+
+/* Color */
+.menu-list li a:after,
+.panel-group .panel-heading a.collapsed:after,
+.testimonial-details a,
+.testimonial-details a,
+.testimonial-details a:hover,
+.testimonial-details a:active,
+.testimonial-details a:focus,
+.entry-content .testimon-box h4,
+.testi-more,
+a.testi-more,
+a.testi-more:hover,
+a.testi-more:active,
+a.testi-more:focus,
+.about-details h4,
+.about-details .about-det-more,
+a.about-det-more,
+a.about-det-more:hover,
+a.about-det-more:active,
+a.about-det-more:focus,
+.services h4,
+.services-cont h4,
+.date-of-news,
+.entry-content .work-details h4,
+.left-tit,
+.news-date,
+.comment-form input::-webkit-input-placeholder:after,
+.post-meta,
+.read-more,
+.caret::after,
+.caret-right::after,
+.comments a,
+.entry-content a {
+	color: #5a65d1;
+}
+
+/* Border */
+.drop-cap-style-2 {border: 2px solid #5a65d1;}
+.pricing-tab:hover .pricing-bottom {border: 2px solid #5a65d1;}
+.service-box:hover {border:3px solid #5a65d1;}
+.web-bg-down {border-top: 65px solid #5a65d1 !important;}
+.web-bg-up {border-bottom: 65px solid #5a65d1 !important;}
+.comment-list li .reply {border-bottom: 1px solid #5a65d1;}
+.service-box8 .info-image.desc-top-big::after {border-top: 50px solid #5a65d1;}
+a.reply { border-bottom: 1px solid #5A65D1;}
